@@ -21,7 +21,7 @@ layers:
   - G
   - H
   - {t: J, h: MOUSE}
-  - {t: K, h: '$$mdi:apple-keyboard-command$$'}
+  - K
   - {t: L, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: ;, h: '$$mdi:apple-keyboard-control$$', s: ':'}
   - {t: '''', s: '"'}
