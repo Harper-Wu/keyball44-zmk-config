@@ -147,7 +147,7 @@
         layer_7 {
             bindings = <
 &trans  &trans  &trans  &trans          &trans  &trans              &trans          &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans          &trans  &trans              &trans          &trans  &trans  &trans  &trans  &trans
+&trans  &kt A   &trans  &trans          &trans  &trans              &trans          &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans          &trans  &trans              &trans          &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &studio_unlock  &trans              &trans  &studio_unlock                                  &trans
             >;
