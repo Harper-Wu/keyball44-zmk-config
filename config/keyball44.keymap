@@ -107,7 +107,7 @@
 
             bindings = <
 &kp GRAVE         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4      &kp NUMBER_5                   &kp NUMBER_6      &kp NUMBER_7    &kp NUMBER_8    &kp NUMBER_9     &kp NUMBER_0   &kp BACKSPACE
-&kp LEFT_SHIFT    &trans        &trans        &trans        &kp MINUS         &kp EQUAL                      &kp LESS_THAN     &kp HOME        &kp UP          &kp END          &kp PG_UP      &kp BACKSLASH
+&kp LEFT_SHIFT    &trans        &trans        &kp DEL       &kp MINUS         &kp EQUAL                      &kp LESS_THAN     &kp HOME        &kp UP          &kp END          &kp PG_UP      &kp BACKSLASH
 &kp LEFT_CONTROL  &trans        &trans        &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET              &kp GREATER_THAN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN  &kp DELETE
 &trans            &trans        &trans        &trans        &trans                                   &trans  &trans                                                                            &trans
             >;
