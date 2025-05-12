@@ -43,7 +43,7 @@ layers:
   - {t: '$$mdi:apple-keyboard-command$$', h: MOUSE}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: MOUSE}
-  - {t: '$$mdi:keyboard-return$$', h: SYM}
+  - SYM
   - $$mdi:mouse-left-click-outline$$
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
