@@ -60,9 +60,17 @@
 };
 
 / {
+  chosen {
+    zmk,studio-rpc-uart = &uart0;
+  };
+
   trackball_listener {
     compatible = "zmk,input-listener";
     device = <&trackball>;
 
   };
+};
+
+&uart0 {
+  status = "okay";
 };
