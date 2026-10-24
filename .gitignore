@@ -4,3 +4,5 @@ modules/
 zephyr/
 zmk/
 zmk-pmw3610-driver/
+Firmware/
+.DS_Store
