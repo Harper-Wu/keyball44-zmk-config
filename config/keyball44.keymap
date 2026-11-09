@@ -5,7 +5,6 @@
 #define MOUSE   4
 #define SCROLL  5
 #define SNIPE   6
-
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 1500  // default: 600
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 80    // default: 10
 
@@ -127,7 +126,7 @@
 
             bindings = <
 &kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4      &kp NUMBER_5                   &kp NUMBER_6      &kp NUMBER_7  &kp N8          &kp N9     &kp N0         &kp BACKSPACE
-&trans     &trans        &trans        &kp DEL       &kp MINUS         &kp EQUAL                      &kp LESS_THAN     &kp HOME      &kp UP_ARROW    &kp END    &kp PG_UP      &trans
+&trans     &trans        &trans        &kp DEL       &kp MINUS         &kp EQUAL                      &kp LESS_THAN     &kp HOME      &kp UP_ARROW    &kp END    &kp PG_UP      &kp BACKSLASH
 &trans     &trans        &trans        &kp INS       &kp LEFT_BRACKET  &kp RIGHT_BRACKET              &kp GREATER_THAN  &kp LEFT      &kp DOWN_ARROW  &kp RIGHT  &kp PAGE_DOWN  &trans
 &trans     &trans        &trans        &trans        &trans                                   &trans  &trans                                                                    &trans
             >;
